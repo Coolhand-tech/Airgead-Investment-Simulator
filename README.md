@@ -1,6 +1,3 @@
-Great choice! Here's the updated **README** with the new repository name **Airgead Investment Simulator**:
-
----
 
 # Airgead Investment Simulator 💰
 
